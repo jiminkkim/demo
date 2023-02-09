@@ -8,7 +8,7 @@ public class DemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
-        System.out.println("=================>     Version. 1.0.0 +++++\n");
+        System.out.println("=================>     Version. 2.0.0 +++++\n");
     }
 
 }
